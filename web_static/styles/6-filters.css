@@ -46,6 +46,8 @@
 	margin-left: -40px;
 	border: #dddddd 1px solid;
 	border-radius: 4px;
+	position: relative;
+	z-index: 1;
 }
 
 .filters .popover ul {
